@@ -1,6 +1,7 @@
 # Yt-Video-Downloader
 A clean and responsive frontend interface for downloading YouTube videos via URL. Built using HTML, CSS, and JavaScript, this project displays available video/audio qualities and download options fetched from a YouTube API.
-🔧 Features
+
+# Features
 🎯 Paste YouTube URL to fetch video download options
 
 📂 Displays available video/audio qualities dynamically
@@ -15,19 +16,15 @@ A clean and responsive frontend interface for downloading YouTube videos via URL
 
 🧾 Sticky trademark footer inside the container
 
-📸 Screenshot
-(Update with your image path)
 
-📦 Tech Stack
+# Tech Stack
 HTML5
-
 CSS3 (Custom + Skeleton Loading)
-
 JavaScript (ES6+)
 
-RapidAPI – YouTube Downloader API
+# RapidAPI – YouTube Downloader API
 
-🚀 How to Use
+# How to Use
 Clone the repo
 
 bash
