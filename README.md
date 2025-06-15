@@ -30,7 +30,7 @@ Clone the repo
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/yt-video-downloader.git
+git clone https://github.com/varook21/yt-video-downloader.git
 Open Homepage.html in any browser
 
 Paste a valid YouTube video link
