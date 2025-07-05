@@ -20,7 +20,7 @@
     const trimedUrl = document.getElementById('youtubeUrl').value.trim();
 
     // YouTube URL pattern validation
-    const youtubeRegex = /^(https?:\/\/)?(www\.)?(youtube\.com\/watch\?v=|youtu\.be\/)[\w-]{11}(&.+)?$/;
+    const youtubeRegex = /^(https?:\/\/)?((www|m)\.)?(youtube\.com\/(watch\?v=|embed\/|v\/)|youtu\.be\/)([a-zA-Z0-9_-]{11})([?&][^\s]*)?$/;
     if (!youtubeRegex.test(trimedUrl)) {
         console.error("Error fetching video data:");
         availableQuality.innerHTML = `<p style="background-color: lightpink;
